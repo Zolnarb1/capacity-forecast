@@ -1,0 +1,4 @@
+detector,windows,detected,false_alarms,days,detection_rate,false_alarms_per_week
+seasonal (vs yesterday),30,21,285,199.955,0.700,9.977
+rolling z-score,30,16,114,199.955,0.533,3.991
+isolation forest,30,15,94,199.955,0.500,3.291

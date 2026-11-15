@@ -1,0 +1,69 @@
+series,model,MASE
+ec2_cpu_utilization_24ae8d,naive,1.765
+ec2_cpu_utilization_24ae8d,seasonal naive,1.285
+ec2_cpu_utilization_24ae8d,holt-winters,0.908
+ec2_cpu_utilization_24ae8d,gradient boosting,0.979
+ec2_cpu_utilization_53ea38,naive,1.289
+ec2_cpu_utilization_53ea38,seasonal naive,0.921
+ec2_cpu_utilization_53ea38,holt-winters,0.820
+ec2_cpu_utilization_53ea38,gradient boosting,0.780
+ec2_cpu_utilization_5f5533,naive,0.227
+ec2_cpu_utilization_5f5533,seasonal naive,0.211
+ec2_cpu_utilization_5f5533,holt-winters,0.223
+ec2_cpu_utilization_5f5533,gradient boosting,0.228
+ec2_cpu_utilization_77c1ca,naive,0.969
+ec2_cpu_utilization_77c1ca,seasonal naive,1.187
+ec2_cpu_utilization_77c1ca,holt-winters,1.267
+ec2_cpu_utilization_77c1ca,gradient boosting,1.316
+ec2_cpu_utilization_825cc2,naive,0.260
+ec2_cpu_utilization_825cc2,seasonal naive,0.418
+ec2_cpu_utilization_825cc2,holt-winters,0.480
+ec2_cpu_utilization_825cc2,gradient boosting,0.722
+ec2_cpu_utilization_ac20cd,naive,0.038
+ec2_cpu_utilization_ac20cd,seasonal naive,3.130
+ec2_cpu_utilization_ac20cd,holt-winters,0.203
+ec2_cpu_utilization_ac20cd,gradient boosting,7.053
+ec2_cpu_utilization_c6585a,naive,0.629
+ec2_cpu_utilization_c6585a,seasonal naive,0.625
+ec2_cpu_utilization_c6585a,holt-winters,0.929
+ec2_cpu_utilization_c6585a,gradient boosting,0.917
+ec2_cpu_utilization_fe7f93,naive,0.988
+ec2_cpu_utilization_fe7f93,seasonal naive,1.192
+ec2_cpu_utilization_fe7f93,holt-winters,1.667
+ec2_cpu_utilization_fe7f93,gradient boosting,1.196
+ec2_disk_write_bytes_1ef3de,naive,0.700
+ec2_disk_write_bytes_1ef3de,seasonal naive,0.702
+ec2_disk_write_bytes_1ef3de,holt-winters,1.200
+ec2_disk_write_bytes_1ef3de,gradient boosting,1.232
+ec2_disk_write_bytes_c0d644,naive,0.695
+ec2_disk_write_bytes_c0d644,seasonal naive,0.955
+ec2_disk_write_bytes_c0d644,holt-winters,1.054
+ec2_disk_write_bytes_c0d644,gradient boosting,1.386
+ec2_network_in_257a54,naive,0.088
+ec2_network_in_257a54,seasonal naive,0.056
+ec2_network_in_257a54,holt-winters,2.814
+ec2_network_in_257a54,gradient boosting,0.479
+ec2_network_in_5abac7,naive,0.407
+ec2_network_in_5abac7,seasonal naive,0.432
+ec2_network_in_5abac7,holt-winters,1.102
+ec2_network_in_5abac7,gradient boosting,1.222
+elb_request_count_8c0756,naive,0.782
+elb_request_count_8c0756,seasonal naive,1.063
+elb_request_count_8c0756,holt-winters,0.842
+elb_request_count_8c0756,gradient boosting,0.803
+grok_asg_anomaly,naive,0.091
+grok_asg_anomaly,seasonal naive,0.229
+grok_asg_anomaly,holt-winters,0.236
+grok_asg_anomaly,gradient boosting,0.652
+iio_us-east-1_i-a2eb1cd9_NetworkIn,naive,0.599
+iio_us-east-1_i-a2eb1cd9_NetworkIn,seasonal naive,0.662
+iio_us-east-1_i-a2eb1cd9_NetworkIn,holt-winters,0.748
+iio_us-east-1_i-a2eb1cd9_NetworkIn,gradient boosting,0.612
+rds_cpu_utilization_cc0c53,naive,1.340
+rds_cpu_utilization_cc0c53,seasonal naive,0.650
+rds_cpu_utilization_cc0c53,holt-winters,0.805
+rds_cpu_utilization_cc0c53,gradient boosting,0.931
+rds_cpu_utilization_e47b3b,naive,0.407
+rds_cpu_utilization_e47b3b,seasonal naive,2.510
+rds_cpu_utilization_e47b3b,holt-winters,0.293
+rds_cpu_utilization_e47b3b,gradient boosting,3.778

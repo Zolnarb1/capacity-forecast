@@ -1,0 +1,5 @@
+model,median,mean,series_won
+naive,0.629,0.663,10
+seasonal naive,0.702,0.955,4
+holt-winters,0.842,0.917,2
+gradient boosting,0.931,1.429,1

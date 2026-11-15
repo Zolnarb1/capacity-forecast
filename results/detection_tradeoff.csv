@@ -1,0 +1,22 @@
+detector,factor,windows,detected,false_alarm_events,days,detection_rate,false_alarms_per_week
+isolation forest,0.800,30,26,460,199.955,0.867,16.104
+isolation forest,0.900,30,25,403,199.955,0.833,14.108
+isolation forest,1.000,30,15,94,199.955,0.500,3.291
+isolation forest,1.100,30,0,0,199.955,0.000,0.000
+isolation forest,1.250,30,0,0,199.955,0.000,0.000
+isolation forest,1.500,30,0,0,199.955,0.000,0.000
+isolation forest,2.000,30,0,0,199.955,0.000,0.000
+rolling z-score,0.800,30,18,206,199.955,0.600,7.212
+rolling z-score,0.900,30,17,144,199.955,0.567,5.041
+rolling z-score,1.000,30,16,114,199.955,0.533,3.991
+rolling z-score,1.100,30,15,83,199.955,0.500,2.906
+rolling z-score,1.250,30,13,57,199.955,0.433,1.995
+rolling z-score,1.500,30,12,41,199.955,0.400,1.435
+rolling z-score,2.000,30,10,27,199.955,0.333,0.945
+seasonal (vs yesterday),0.800,30,22,380,199.955,0.733,13.303
+seasonal (vs yesterday),0.900,30,22,326,199.955,0.733,11.413
+seasonal (vs yesterday),1.000,30,21,285,199.955,0.700,9.977
+seasonal (vs yesterday),1.100,30,20,231,199.955,0.667,8.087
+seasonal (vs yesterday),1.250,30,18,188,199.955,0.600,6.581
+seasonal (vs yesterday),1.500,30,15,148,199.955,0.500,5.181
+seasonal (vs yesterday),2.000,30,14,108,199.955,0.467,3.781

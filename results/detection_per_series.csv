@@ -1,0 +1,52 @@
+series,detector,windows,detected,false_alarm_events,days
+ec2_cpu_utilization_24ae8d,rolling z-score,2,0,0,11.90
+ec2_cpu_utilization_24ae8d,seasonal (vs yesterday),2,2,31,11.90
+ec2_cpu_utilization_24ae8d,isolation forest,2,1,2,11.90
+ec2_cpu_utilization_53ea38,rolling z-score,2,0,0,11.90
+ec2_cpu_utilization_53ea38,seasonal (vs yesterday),2,0,5,11.90
+ec2_cpu_utilization_53ea38,isolation forest,2,2,2,11.90
+ec2_cpu_utilization_5f5533,rolling z-score,2,2,16,11.90
+ec2_cpu_utilization_5f5533,seasonal (vs yesterday),2,1,6,11.90
+ec2_cpu_utilization_5f5533,isolation forest,2,2,2,11.90
+ec2_cpu_utilization_77c1ca,rolling z-score,1,1,21,11.90
+ec2_cpu_utilization_77c1ca,seasonal (vs yesterday),1,1,35,11.90
+ec2_cpu_utilization_77c1ca,isolation forest,1,0,1,11.90
+ec2_cpu_utilization_825cc2,rolling z-score,1,1,4,11.90
+ec2_cpu_utilization_825cc2,seasonal (vs yesterday),1,1,1,11.90
+ec2_cpu_utilization_825cc2,isolation forest,1,1,1,11.90
+ec2_cpu_utilization_ac20cd,rolling z-score,1,1,0,11.91
+ec2_cpu_utilization_ac20cd,seasonal (vs yesterday),1,1,0,11.91
+ec2_cpu_utilization_ac20cd,isolation forest,1,0,0,11.91
+ec2_cpu_utilization_c6585a,rolling z-score,0,0,1,11.90
+ec2_cpu_utilization_c6585a,seasonal (vs yesterday),0,0,4,11.90
+ec2_cpu_utilization_c6585a,isolation forest,0,0,0,11.90
+ec2_cpu_utilization_fe7f93,rolling z-score,3,1,1,11.90
+ec2_cpu_utilization_fe7f93,seasonal (vs yesterday),3,3,55,11.90
+ec2_cpu_utilization_fe7f93,isolation forest,3,0,0,11.90
+ec2_disk_write_bytes_1ef3de,rolling z-score,1,0,0,13.96
+ec2_disk_write_bytes_1ef3de,seasonal (vs yesterday),1,1,47,13.96
+ec2_disk_write_bytes_1ef3de,isolation forest,1,1,29,13.96
+ec2_disk_write_bytes_c0d644,rolling z-score,3,2,20,11.90
+ec2_disk_write_bytes_c0d644,seasonal (vs yesterday),3,3,22,11.90
+ec2_disk_write_bytes_c0d644,isolation forest,3,2,17,11.90
+ec2_network_in_257a54,rolling z-score,1,1,20,11.90
+ec2_network_in_257a54,seasonal (vs yesterday),1,1,11,11.90
+ec2_network_in_257a54,isolation forest,1,1,0,11.90
+ec2_network_in_5abac7,rolling z-score,2,0,1,13.96
+ec2_network_in_5abac7,seasonal (vs yesterday),2,2,3,13.96
+ec2_network_in_5abac7,isolation forest,2,0,2,13.96
+elb_request_count_8c0756,rolling z-score,2,2,5,11.92
+elb_request_count_8c0756,seasonal (vs yesterday),2,2,16,11.92
+elb_request_count_8c0756,isolation forest,2,1,0,11.92
+grok_asg_anomaly,rolling z-score,3,0,0,13.64
+grok_asg_anomaly,seasonal (vs yesterday),3,0,0,13.64
+grok_asg_anomaly,isolation forest,3,0,0,13.64
+iio_us-east-1_i-a2eb1cd9_NetworkIn,rolling z-score,2,1,12,3.67
+iio_us-east-1_i-a2eb1cd9_NetworkIn,seasonal (vs yesterday),2,0,0,3.67
+iio_us-east-1_i-a2eb1cd9_NetworkIn,isolation forest,2,0,0,3.67
+rds_cpu_utilization_cc0c53,rolling z-score,2,2,2,11.90
+rds_cpu_utilization_cc0c53,seasonal (vs yesterday),2,1,44,11.90
+rds_cpu_utilization_cc0c53,isolation forest,2,2,4,11.90
+rds_cpu_utilization_e47b3b,rolling z-score,2,2,11,11.90
+rds_cpu_utilization_e47b3b,seasonal (vs yesterday),2,2,5,11.90
+rds_cpu_utilization_e47b3b,isolation forest,2,2,34,11.90
